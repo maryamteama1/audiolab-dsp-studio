@@ -172,7 +172,7 @@ noisereduce>=3.0.0
 
 | 1. Upload & Metadata Engine | 2. Sequential DSP Pipeline Stack |
 | :---: | :---: |
-| ![Upload Workspace](C:\Users\Hp-x88\Desktop\3 Bio AI\DSP\Sections\AudioLab-DSP-Studio\assets\Upload.png) | ![Pipeline Stack](https://via.placeholder.com/600x350.png?text=Composable+DSP+Pipeline+Queue) |
+| ![Upload Workspace](./assets/Upload.png) | ![Pipeline Stack](https://via.placeholder.com/600x350.png?text=Composable+DSP+Pipeline+Queue) |
 
 | 3. Audio Comparison (Before vs After) | 4. Spectrogram & Signal Analysis |
 | :---: | :---: |
