@@ -119,7 +119,7 @@ Leverage interactive, hardware-accelerated Plotly visualizations:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/audiolab-dsp-studio.git
+   git clone (https://github.com/maryamteama1/audiolab-dsp-studio.git)
    cd audiolab-dsp-studio
    ```
 
