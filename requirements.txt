@@ -1,0 +1,11 @@
+streamlit
+numpy
+scipy
+librosa
+soundfile
+plotly
+pandas
+scikit-learn
+matplotlib
+imageio-ffmpeg
+noisereduce
