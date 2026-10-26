@@ -172,11 +172,11 @@ noisereduce>=3.0.0
 
 | 1. Upload & Metadata Engine | 2. Sequential DSP Pipeline Stack |
 | :---: | :---: |
-| ![Upload Workspace](./assets/Upload.png) | ![Pipeline Stack](https://via.placeholder.com/600x350.png?text=Composable+DSP+Pipeline+Queue) |
+| ![Upload Workspace](./assets/Upload.png) | ![Pipeline Stack](./assets/Piepline.png) |
 
 | 3. Audio Comparison (Before vs After) | 4. Spectrogram & Signal Analysis |
 | :---: | :---: |
-| ![Audio Comparison](https://via.placeholder.com/600x350.png?text=Side-By-Side+Audio+Comparison) | ![Signal Analysis](https://via.placeholder.com/600x350.png?text=STFT+Spectrogram+%26+FFT+Spectrum) |
+| ![Audio Comparison](./assets/Comparison.png) | ![Signal Analysis](./assets/Analysis.png) |
 
 ---
 
